@@ -9,11 +9,11 @@ body {
   display: flex;
   flex-direction: column;
   font-family: Helvetica, Arial, sans-serif;
-  color: #F69C7E;
+  color: #7edaf6;
 }
 
 header, footer {
-  background-color: #F05A28;
+  background-color: gold;
   height: 60px;
   justify-content: center;
   color: white;
